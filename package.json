@@ -9,8 +9,8 @@
     "execmongo": "docker exec -it 95a6cde75236 bash"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "bigbigdatas",
+  "license": "",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cookies": "^0.7.1",
